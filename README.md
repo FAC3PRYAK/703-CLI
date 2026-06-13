@@ -6,6 +6,7 @@ Selfbot tool para Discord en Node.js. Módulos: **LootBox Reclaimer** y **Welcom
 
 * Node.js v16+
 * npm
+* discord.js-selfbot-v13 (Se instala ejecutando: npm install)
 
 ## Instalación de dependencias
 
