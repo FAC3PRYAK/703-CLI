@@ -1,0 +1,3 @@
+# F4STY — Dependencias
+discord.py-self
+python-dotenv
