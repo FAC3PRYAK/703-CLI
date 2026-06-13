@@ -34,5 +34,3 @@ El archivo `.env` se crea y edita automáticamente por la CLI:
 TOKEN=tu_token_aqui
 WELCOME_MSG=tu_mensaje_de_bienvenida_aqui
 ```
-
-> ⚠️ Nunca subas el `.env` al repositorio público. Ya está en `.gitignore`.
