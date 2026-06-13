@@ -1,0 +1,12 @@
+{
+  "name": "fasty",
+  "version": "2.0.0",
+  "description": "F4STY - Selfbot Tool con LootBox Reclaimer y Welcomes",
+  "main": "fasty.js",
+  "scripts": {
+    "start": "node fasty.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.7.1"
+  }
+}
